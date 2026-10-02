@@ -1,0 +1,19 @@
+# Compiled Java bytecode
+*.class
+
+# IntelliJ IDEA project files that shipped inside the original .rar archives
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Build output produced by `make verify` / verify/run-all.sh
+build/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor / tooling noise
+*.log
