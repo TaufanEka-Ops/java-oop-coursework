@@ -1,0 +1,14 @@
+--- PersonApp ---
+Rahmat
+Surabaya
+Indonesia
+Hello Budi, My name is Rahmat
+Budi
+Hello Budi, My name is Joko
+--- ShapeApp ---
+0
+4
+0
+--- ManagerApp ---
+Hi Budi, My name is Manager Eko
+Hi Budi, My name is ViceP Joko
